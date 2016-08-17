@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pokestop_entries">
+        <item>None</item>
+        <item>Only lure</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="pokestop_values">
+        <item>NONE</item>
+        <item>LURE</item>
+        <item>ALL</item>
+    </string-array>
+
+    <string-array name="pokeball_entries">
+        <item>PokeBall</item>
+        <item>GreatBall</item>
+        <item>PowerBall</item>
+        <item>UltraBall</item>
+        <item>MasterBall (use at your own risks)</item>
+    </string-array>
+    <string-array name="pokeball_values">
+        <item>POKEBALL</item>
+        <item>GREATBALL</item>
+        <item>POWERBALL</item>
+        <item>ULTRABALL</item>
+        <item>MASTERBALL</item>
+    </string-array>
+
+
+    <string-array name="pref_possible_steps">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="step_delay">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="pokemon_names">
+        <item>MISSINGNO</item>
+        <item>Pikachu</item>
+        <item>Bulbasaur</item>
+        <item>Drowsee</item>
+    </string-array>
+
+    <string-array name="pref_pokemons_to_show_default"/>
+</resources>
